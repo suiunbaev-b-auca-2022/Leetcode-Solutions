@@ -20,7 +20,6 @@ public:
         for (int i = 0; i < pp.size(); i++) {
             ad[pp[i][1]].push_back(pp[i][0]);
 
-
         }
         stack<int> st;
 
